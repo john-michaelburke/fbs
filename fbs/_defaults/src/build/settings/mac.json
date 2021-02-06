@@ -5,5 +5,5 @@
     "files_to_filter": [
         "src/freeze/mac/Contents/Info.plist"
     ],
-    "show_console_window": false
+    "show_console_window": false,
 }
